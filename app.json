@@ -1,0 +1,6 @@
+{
+    "name": "zeffmail",
+    "description": "A Simple, Fast and Free To Use Mailing API",
+    "image": "heroku/nodejs",
+    "addons": []
+  }

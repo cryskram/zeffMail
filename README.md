@@ -1,6 +1,6 @@
 # ZeffMail
 
-A Simple, Fast And Free Mailing API
+A Simple, Fast and Free To Use Mailing API
 
 **Visit The Website [Here](https://zeffmail.herokuapp.com/)**
 

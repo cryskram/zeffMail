@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css?family=Megrim");
+@import url("https://fonts.googleapis.com/css?family=Arima+Madurai");
+@import url("https://fonts.googleapis.com/css?family=Varela");
+
+body {
+  margin: 0 0;
+  padding: 0 0;
+  color: #fff;
+  background-color: #181818;
+  font-family: "Varela";
+}
+
+.container {
+  text-align: center;
+  margin-top: 200px;
+}
+
+#title {
+  font-family: "Megrim";
+  text-transform: uppercase;
+  font-size: 78px;
+  color: #0099ff;
+}
+
+#title span {
+  color: #00ff88;
+}
+
+#description {
+  margin-top: -35px;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  color: #00ff88;
+}
+
+button {
+  padding: 16px 32px;
+  margin: 5px 8px;
+  outline: none;
+  border: none;
+  font-size: 18px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.btn-grp {
+  margin-top: 50px;
+}
+
+#sam {
+  background-color: #0099ff;
+  color: #fff;
+  border: 2px solid #0099ff;
+  transition: all 0.4s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+#sam:hover {
+  background-color: transparent;
+}
+
+#repo {
+  background-color: #ddd;
+  border: 2px solid #ddd;
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+#repo:hover {
+  background-color: transparent;
+  color: #ddd;
+  border: 2px solid #ddd;
+}
+
+.getStart {
+  margin-top: 70px;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+.getStart a {
+  text-decoration: underline;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
